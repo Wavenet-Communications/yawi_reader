@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "193027807566",
+    "firebase_url": "https://yawireader.firebaseio.com",
+    "project_id": "yawireader",
+    "storage_bucket": "yawireader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193027807566:android:5069a20de63d2b503b661f",
+        "android_client_info": {
+          "package_name": "com.wavenet.yawireader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193027807566-mkdjp14jo10s4f19i9biq6q0f09g1t21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE6pXEKN5lf_xdACF1Zp6tlNbwaNF2fK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193027807566-mkdjp14jo10s4f19i9biq6q0f09g1t21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
